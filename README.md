@@ -1,3 +1,6 @@
+![armstrong-numbers](https://user-images.githubusercontent.com/44240533/222924241-2cb55582-1478-4b50-a1e3-49d251fd6381.svg)
+
+
 # Armstrong Numbers
 
 Welcome to Armstrong Numbers on Exercism's Java Track.
